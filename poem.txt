@@ -3,4 +3,5 @@ Green
 Yellow
 Blue
 Purple
+Orange
 This is a rainbow
