@@ -3,6 +3,7 @@ Red
 Green
 Yellow
 Blue
+White
 Purple
 Pink
 Orange
