@@ -5,6 +5,7 @@ Yellow
 Blue
 White
 Purple
+Recycle
 Pink
 Orange
 This is a rainbow
